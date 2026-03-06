@@ -21,7 +21,8 @@ background-image: url(bg-desktop.png);
 background-position: bottom;
 background-attachment: fixed;
 background-repeat:no-repeat ;
-background-size: 100%;
+     background-size: 100%;
+
 }
 .main{
 display: flex;
@@ -185,4 +186,5 @@ width: 51px;
     bottom: 20px;
     color: var(--Blue1);
 }
+
 
