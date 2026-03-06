@@ -34,15 +34,7 @@ margin-top: 193px;
      width: 100%;
 }
 
-.tp{
-background-color: var(--Blue2);
-    width: 800px;
-    height: 150px;
-    margin-top: 52px;
-    margin-left: 150px;
-    padding: 50px;
-    position: relative;
-}
+
 
 .tp{
     background-color: var(--Blue2);
@@ -188,6 +180,7 @@ width: 51px;
     bottom: 20px;
     color: var(--Blue1);
 }
+
 
 
 
